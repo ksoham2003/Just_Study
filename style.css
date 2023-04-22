@@ -1,0 +1,28 @@
+body{
+    background-color: #2a2f34;
+}
+
+.nav-link{
+    color: aliceblue;
+}
+
+.mid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.card{
+    margin: 0px 10px;
+}
+
+.progress{
+    margin: 0px 60px;
+}
+
+.top{
+    text-align: center;
+    font-size: larger;
+    color: aliceblue;
+}
